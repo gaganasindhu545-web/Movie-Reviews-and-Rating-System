@@ -18,5 +18,5 @@ This project is built using MERN Stack. It allows users to view movies and give 
 Language Selection Window:
  
 Displays the interface where users can select their preferred movie language to browse movies accordingly.
-![loginpage](loginpage.png)
+![loginpage](loginpage.jpeg)
 
