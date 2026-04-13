@@ -26,36 +26,36 @@ Displays the login interface where the user enters email and password to access 
 
 Language Selection Window:
 Displays the interface where users can select their preferred movie language to browse movies accordingly.
-![language](languageselection)
+![language](languageselection.jpeg)
 
 Home page Window:
 Provides the main interface where users can browse available movies displayed from the TMDB API.
-![home](homepage)
+![home](homepage.jpeg)
 
 Search Movie Window:
 Displays the search interface where users can search for movies by entering the movie title.
-![serach](searchmovie)
+![serach](searchmovie.jpeg)
 
 Movie Details Window:
 Displays complete information about the selected movie such as title, poster, release date, runtime, genres, and overview
-![moviedetails](moviedetails)
+![moviedetails](moviedetails.jpeg)
 
 Cast Details Screen:
 Shows the cast members of the selected movie along with their profile images.
-![castdetails](castdetails)
+![castdetails](castdetails.jpeg)
 
 User Reviews Window:
 Displays all user-submitted reviews and ratings for the selected movie
-![userreviews](userreviews)
+![userreviews](userreviews.jpeg)
 
 Review Submission Window:
 Displays the interface where logged-in users can submit ratings and reviews for a selected movie.
-![reviewsubmission](reviewsubmission)
+![reviewsubmission](reviewsubmission.jpeg)
 
 Review Update Window:
  Shows the interface used to edit or update an existing user review and rating.
-![reviewupdate](reviewupdate)
+![reviewupdate](reviewupdate.jpeg)
 
 Average Rating Display Screen:
 Displays the calculated average rating of the movie based on user-submitted ratings
-![averagerating](AverageRating)
+![averagerating](AverageRating.jpeg)
